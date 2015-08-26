@@ -1,5 +1,0 @@
-Abreviatura de File Transfer Protocol, el protocolo para intercambiar archivos en Internet.
-
-El FTP utiliza los protocolos de Internet TCP/IP para permitir la transferencia de datos, de la misma manera que el HTTP en la transferencia de páginas web desde un servidor al navegador de un usuario y el SMTP para transferir correo electrónico a través de Internet.
-
-El FTP se utiliza principalmente para descargar un archivo de un servidor o para subir un archivo a un servidor a través de Internet.
